@@ -2,6 +2,6 @@
 
 This repository holds my personal cheatsheets.
 
-## Cheatsheet List
+## List of Cheatsheets
 
-Coming soon...
+- [GitHub CLI](GITHUB_CLI.md)
